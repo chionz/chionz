@@ -2,10 +2,11 @@
 
 # Hi, I'm Chidera Prince
 
-### Backend Developer | Python | Django | FastAPI | APIs & Infrastructure
+### Backend Engineer <br> 
+Python • Django • FastAPI • APIs & Infrastructure
 
-I build **scalable backend systems** and **production-ready APIs**. <br>
-Focused on shipping **reliable infrastructure**, not just writing code.
+I design and build backend systems that are **meant to survive production**, 
+with clear boundaries, predictable behaviour, and infrastructure that doesn't collapse under pressure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://github.com/chionz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/chionz)
@@ -16,16 +17,19 @@ Focused on shipping **reliable infrastructure**, not just writing code.
 
 ---
 
-## What I Do
-- Architect RESTful APIs using **FastAPI, Django REST Framework**
-- Build async systems with **Celery & Redis**
-- Deploy production apps with **Docker, Nginx & Linux VPS**
-- Automate CI/CD with **GitHub Actions**
-- Working knowledge of HTML/CSS for Jinja templates, admin customization, and system-facing UIs.
+## What I Actually Do
+
+- Design REST APIs with FastAPI & Django REST Framework, focused on clarity and long-term maintainability
+- Build async & background systems using Celery and Redis where synchronous logic breaks down
+- Ship production deployments with Docker, Nginx, and Linux VPS
+- Set up CI/CD pipelines with GitHub Actions to reduce human error
+- Work comfortably across backend + system-facing UIs (Jinja, admin panels, internal tools)
+
+**I care less about trends and more about systems that behave correctly when things go wrong.**
 
 ---
 
-## Tech Stack
+## Tech I Trust in Production
 
 <div align="center">
 
